@@ -177,8 +177,8 @@ h2 {
     margin-right: 2vw;
     float: left;
     background-color: rgb(21,145,138);
-    width: 33%;
-    
+    width: 33%; 
+    text-align: justify;   
 }
 
 .block1Img {
@@ -188,8 +188,7 @@ h2 {
 }
 
 .block1Text {
-    padding: 1vw;
-
+    padding: 1.5vw;
 }
 
 .block_2 {
@@ -198,7 +197,7 @@ h2 {
     float: left;
     background-color: rgb(21,145,138);
     width: 33%;
-    
+    text-align: justify; 
 }
 
 .block2Img {
@@ -209,7 +208,7 @@ h2 {
 }
 
 .block2Text {
-    padding: 1vw;
+    padding: 1.5vw;
     padding-top: 2vh;
     
 }
